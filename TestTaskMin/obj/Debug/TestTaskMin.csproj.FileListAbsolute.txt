@@ -1,0 +1,6 @@
+E:\Copy\Projects\TestTaskMin\TestTaskMin\bin\Debug\TestTaskMin.pdb
+E:\Copy\Projects\TestTaskMin\TestTaskMin\obj\Debug\TestTaskMin.pdb
+E:\Copy\Projects\TestTaskMin\TestTaskMin\bin\Debug\TestTaskMin.exe.config
+E:\Copy\Projects\TestTaskMin\TestTaskMin\bin\Debug\TestTaskMin.exe
+E:\Copy\Projects\TestTaskMin\TestTaskMin\obj\Debug\TestTaskMin.exe
+E:\Copy\Projects\TestTaskMin\TestTaskMin\obj\Debug\TestTaskMin.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+E:\Copy\Projects\TestTaskMin\TaskMinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Copy\Projects\TestTaskMin\TaskMinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Copy\Projects\TestTaskMin\TaskMinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Copy\Projects\TestTaskMin\TaskMinTests\bin\Debug\TaskMinTests.dll
+E:\Copy\Projects\TestTaskMin\TaskMinTests\bin\Debug\TaskMinTests.pdb
+E:\Copy\Projects\TestTaskMin\TaskMinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Copy\Projects\TestTaskMin\TaskMinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Copy\Projects\TestTaskMin\TaskMinTests\bin\Debug\TestTaskMin.exe
+E:\Copy\Projects\TestTaskMin\TaskMinTests\bin\Debug\TestTaskMin.pdb
+E:\Copy\Projects\TestTaskMin\TaskMinTests\bin\Debug\TestTaskMin.exe.config
+E:\Copy\Projects\TestTaskMin\TaskMinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Copy\Projects\TestTaskMin\TaskMinTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Copy\Projects\TestTaskMin\TaskMinTests\obj\Debug\TaskMinTests.csprojAssemblyReference.cache
+E:\Copy\Projects\TestTaskMin\TaskMinTests\obj\Debug\TaskMinTests.csproj.CopyComplete
+E:\Copy\Projects\TestTaskMin\TaskMinTests\obj\Debug\TaskMinTests.dll
+E:\Copy\Projects\TestTaskMin\TaskMinTests\obj\Debug\TaskMinTests.pdb
